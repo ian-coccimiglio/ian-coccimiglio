@@ -1,9 +1,10 @@
 
 # Table of Contents
 
-1.  [Clonal Dynamics of Regenerating Muscle Stem Cells](#org25584b0)
-2.  [Semi-Automated Muscle Fiber Imaging Platform](#org11a8733)
-3.  [Mapping Exercise Training To Exercise Performance](#orgc14c2ce)
+1.  [I&rsquo;m currently working on the following scientific and software-development projects:](#orgc69bf82)
+    1.  [Clonal Dynamics of Regenerating Muscle Stem Cells](#orgacceefe)
+    2.  [Semi-Automated Muscle Fiber Imaging Platform](#org93ec796)
+    3.  [Mapping Exercise Training To Exercise Performance](#org9e1f85a)
 
 Hey there, you&rsquo;ve found the place where you can figure out who I am.
 
@@ -14,7 +15,7 @@ My technical software background.
 -   Worked in Windows through my undergraduate, moved to Linux and Mac in 2020. Most worthwhile technical choice I&rsquo;ve ever made.
 -   I use Manjaro (btw). Still not cool enough to be with the Arch crowd.
 -   I started learning vim editing in 2021, but I was compelled to try Doom EMACS in 2023. Now I believe any editor can improved with Vim key-bindings, [even CRISPR.](https://xkcd.com/1823)
--   I&rsquo;m now working in the realm of biological imaging and statistical analysis, mixed in with some machine-learning
+-   I&rsquo;m now working in the realm of biological imaging and statistical analysis, mixed in with practicing machine learning using Python.
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -24,13 +25,14 @@ My technical software background.
 
 <col  class="org-left" />
 </colgroup>
-<tbody>
+<thead>
 <tr>
-<td class="org-left">My software familiarity</td>
-<td class="org-left">Technologies/Tools</td>
+<th scope="col" class="org-left">My software familiarity</th>
+<th scope="col" class="org-left">Technologies/Tools</th>
 </tr>
+</thead>
 
-
+<tbody>
 <tr>
 <td class="org-left">I love these and use them regularly</td>
 <td class="org-left">Python, R/RStudio, Tidyverse, Vim, DOOM Emacs, Linux, Manjaro, Spyder, VScode, Fiji/ImageJ, Bash, Shell-scripting, Conda, AUR, Org-mode</td>
@@ -56,28 +58,31 @@ My technical software background.
 </tbody>
 </table>
 
-I&rsquo;m currently working on the following scientific and software-development projects:
+
+<a id="orgc69bf82"></a>
+
+# I&rsquo;m currently working on the following scientific and software-development projects:
 
 
-<a id="org25584b0"></a>
+<a id="orgacceefe"></a>
 
-# Clonal Dynamics of Regenerating Muscle Stem Cells
+## Clonal Dynamics of Regenerating Muscle Stem Cells
 
 [Project: Transposon-Tracking]
 Leveraging Bayesian statistics to gain insight into muscle-progenitor renewal.
 
 
-<a id="org11a8733"></a>
+<a id="org93ec796"></a>
 
-# Semi-Automated Muscle Fiber Imaging Platform
+## Semi-Automated Muscle Fiber Imaging Platform
 
 [Project: Lightning-Fiber]
 A fast Fiji-based platform which addresses the vexing problem of quickly imaging, segmenting, and measuring muscle fibers. Developed with direct biologist input.
 
 
-<a id="orgc14c2ce"></a>
+<a id="org9e1f85a"></a>
 
-# Mapping Exercise Training To Exercise Performance
+## Mapping Exercise Training To Exercise Performance
 
 [Project: Delta-Performance]
 The goal of coaching has always been to find the most effective ways to train.
