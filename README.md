@@ -12,7 +12,7 @@ I&rsquo;m completing my Masters in Biomedical Engineering at the Rossi Lab at th
 
 My technical software background.
 
--   Worked in Windows through my undergraduate, moved to Linux and Mac in 2020. Most worthwhile technical choice I&rsquo;ve ever made.
+-   Worked in Windows through my undergraduate, moved to Linux in 2020 (with some Mac). Most worthwhile technical choice I&rsquo;ve ever made.
 -   I use Manjaro (btw). Still not cool enough to be with the Arch crowd.
 -   I started learning vim editing in 2021, but I was compelled to try Doom EMACS in 2023. Now I believe any editor can improved with Vim key-bindings, [even CRISPR.](https://xkcd.com/1823)
 -   I&rsquo;m now working in the realm of biological imaging and statistical analysis, mixed in with practicing machine learning using Python.
