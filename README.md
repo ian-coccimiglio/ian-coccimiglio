@@ -1,19 +1,20 @@
 
 # Table of Contents
 
-1.  [Clonal Dynamics of Regenerating Muscle Stem Cells](#org93d1064)
-2.  [Semi-Automated Muscle Fiber Imaging Platform](#org24acfc9)
-3.  [Mapping Exercise Training To Exercise Performance](#org7742c46)
+1.  [Clonal Dynamics of Regenerating Muscle Stem Cells](#org25584b0)
+2.  [Semi-Automated Muscle Fiber Imaging Platform](#org11a8733)
+3.  [Mapping Exercise Training To Exercise Performance](#orgc14c2ce)
 
 Hey there, you&rsquo;ve found the place where you can figure out who I am.
 
 I&rsquo;m completing my Masters in Biomedical Engineering at the Rossi Lab at the University of British Columbia. I&rsquo;m a long-time coach, occasional marathon runner, and computational biologist.
 
 My technical software background.
-> Worked in Windows through my undergraduate, moved to Linux and Mac in 2020. Most worthwhile technical choice I&rsquo;ve ever made.
-> I use Manjaro (btw). Still not cool enough to be with the Arch crowd.
-> I started learning vim editing in 2021, but I was compelled to try Doom EMACS in 2023. Now I believe any editor can improved with Vim key-bindings, [even CRISPR.](https://xkcd.com/1823)
-> I&rsquo;m now working in the realm of biological imaging and statistical analysis, mixed in with some machine-learning
+
+-   Worked in Windows through my undergraduate, moved to Linux and Mac in 2020. Most worthwhile technical choice I&rsquo;ve ever made.
+-   I use Manjaro (btw). Still not cool enough to be with the Arch crowd.
+-   I started learning vim editing in 2021, but I was compelled to try Doom EMACS in 2023. Now I believe any editor can improved with Vim key-bindings, [even CRISPR.](https://xkcd.com/1823)
+-   I&rsquo;m now working in the realm of biological imaging and statistical analysis, mixed in with some machine-learning
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -58,7 +59,7 @@ My technical software background.
 I&rsquo;m currently working on the following scientific and software-development projects:
 
 
-<a id="org93d1064"></a>
+<a id="org25584b0"></a>
 
 # Clonal Dynamics of Regenerating Muscle Stem Cells
 
@@ -66,7 +67,7 @@ I&rsquo;m currently working on the following scientific and software-development
 Leveraging Bayesian statistics to gain insight into muscle-progenitor renewal.
 
 
-<a id="org24acfc9"></a>
+<a id="org11a8733"></a>
 
 # Semi-Automated Muscle Fiber Imaging Platform
 
@@ -74,7 +75,7 @@ Leveraging Bayesian statistics to gain insight into muscle-progenitor renewal.
 A fast Fiji-based platform which addresses the vexing problem of quickly imaging, segmenting, and measuring muscle fibers. Developed with direct biologist input.
 
 
-<a id="org7742c46"></a>
+<a id="orgc14c2ce"></a>
 
 # Mapping Exercise Training To Exercise Performance
 
