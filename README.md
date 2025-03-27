@@ -9,11 +9,11 @@
 Hey there, you&rsquo;ve found the place where you can figure out who I am. 
 
 ## Where I am on the internet:
-![My website](https://ianfc.com)
+[My website](https://ianfc.com)
 
-![Image.sc](https://forum.image.sc/u/ianfc/summary)
+[Image.sc](https://forum.image.sc/u/ianfc/summary)
 
-![LinkedIn](https://www.linkedin.com/in/ian-coccimiglio/)
+[LinkedIn](https://www.linkedin.com/in/ian-coccimiglio/)
 
 ## About Me
 
