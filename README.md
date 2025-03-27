@@ -3,10 +3,19 @@
 
 1.  [I&rsquo;m currently working on the following scientific and software-development projects:](#orgc69bf82)
     1.  [Clonal Dynamics of Regenerating Muscle Stem Cells](#orgacceefe)
-    2.  [Semi-Automated Muscle Fiber Imaging Platform](#org93ec796)
+    2.  [FiberSight: Semi-Automated Muscle Fiber Image Analysis](#org93ec796)
     3.  [Mapping Exercise Training To Exercise Performance](#org9e1f85a)
 
-Hey there, you&rsquo;ve found the place where you can figure out who I am.
+Hey there, you&rsquo;ve found the place where you can figure out who I am. 
+
+## Where I am on the internet:
+![My website](https://ianfc.com)
+
+![Image.sc](https://forum.image.sc/u/ianfc/summary)
+
+![LinkedIn](https://www.linkedin.com/in/ian-coccimiglio/)
+
+## About Me
 
 I&rsquo;m completing my Masters in Biomedical Engineering at the Rossi Lab at the University of British Columbia. I&rsquo;m a long-time coach, occasional marathon runner, and computational biologist.
 
@@ -16,6 +25,7 @@ My technical software background.
 -   I use Manjaro (btw). Still not cool enough to be with the Arch crowd.
 -   I started learning vim editing in 2021, but I was compelled to try Doom EMACS in 2023. Now I believe any editor can improved with Vim key-bindings, [even CRISPR.](https://xkcd.com/1823)
 -   I&rsquo;m now working in the realm of biological imaging and statistical analysis, mixed in with practicing machine learning using Python.
+
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -74,10 +84,10 @@ Leveraging Bayesian statistics to gain insight into muscle-progenitor renewal.
 
 <a id="org93ec796"></a>
 
-## Semi-Automated Muscle Fiber Imaging Platform
+## FiberSight: Semi-Automated Muscle Fiber Image Analysis
 
-[Project: Lightning-Fiber]
-A fast Fiji-based platform which addresses the vexing problem of quickly imaging, segmenting, and measuring muscle fibers. Developed with direct biologist input.
+[Project: FiberSight]
+A fast Fiji-based platform which addresses the vexing problem of quickly segmenting, assessing, and measuring muscle fibers.
 
 
 <a id="org9e1f85a"></a>
